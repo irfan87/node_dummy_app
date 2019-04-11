@@ -1,0 +1,11 @@
+{
+  "name": "node_first_app",
+  "version": "1.0.0",
+  "description": "A simple and revision of my knowledge in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Irfan Mohammad Shukri",
+  "license": "MIT"
+}
